@@ -1,0 +1,18 @@
+.altura{
+    height: 100vh;
+}
+
+@media (min-width: 576px) and (max-width:767) { 
+    .imagem{
+        width: 10%;
+    }
+ }
+
+@media (min-width:768px){
+    .imagem{
+        width: 30%;
+    }
+}
+h1{
+    padding: 3vh;
+}
